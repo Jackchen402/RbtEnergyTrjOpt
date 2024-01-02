@@ -16,8 +16,8 @@ Qt Creator 6.0以上版本, MSVC2015以上版本
 # 运行
 
 
-https://github.com/Jackchen402/RbtEnergyTrjOpt/assets/62838442/f15beecc-471f-47a8-a131-0234acbbe310
 
+https://github.com/Jackchen402/RbtEnergyTrjOpt/assets/62838442/f7e3fe28-4a64-46b9-afa8-995676e7b528
 
 
 
